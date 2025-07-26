@@ -39,13 +39,6 @@ Je maîtrise plusieurs langages et frameworks, notamment :
 
 ---
 
-## 🛠 Projets en cours  
-- **Gestion commerciale** : application complète backend & frontend  
-- **Blog personnel** : amélioration et optimisation en continu  
-- **Plateforme de formation en ligne** : développement actif, stay tuned!
-
----
-
 ## 📬 Me contacter  
 - ✉️ Email : landros001t@gmail.com  
 - 🔗 LinkedIn : [linkedin.com/in/landrosse-radimson](https://www.linkedin.com/in/landrosse-radimson)  
