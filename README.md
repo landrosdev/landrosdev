@@ -1,40 +1,58 @@
 # Salut, moi c’est **RADIMSON Landrosse** 👋  
 
 ## À propos de moi  
-Passionné par l’informatique et l’entrepreneuriat, je suis un développeur polyvalent : **web, mobile et desktop**.  
-Étudiant en génie informatique, j’aime transformer des idées en solutions concrètes et utiles.  
+Passionné par l’informatique et l’entrepreneuriat, je suis **développeur Fullstack Junior** (web, mobile et desktop).  
+J’aide les gens à créer leur **site web**, leur **application mobile** ou leur **logiciel**, en transformant leurs idées en solutions concrètes et utiles.  
+Étudiant en génie informatique, je suis capable de monter en compétence rapidement et motivé pour progresser en continu.  
 
 ---
 
 ## 🌐 Compétences  
 
 ### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Mobile  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Desktop  
-![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
+### Bases de données  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 💡 Soft Skills  
-![Entrepreneur](https://img.shields.io/badge/Entrepreneur-FF7F50?style=for-the-badge&logo=target&logoColor=white) 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1E90FF?style=for-the-badge&logo=lightbulb&logoColor=white) 
-![Team Spirit](https://img.shields.io/badge/Team%20Spirit-32CD32?style=for-the-badge&logo=people&logoColor=white) 
-![Autonomie](https://img.shields.io/badge/Autonomie-FFD700?style=for-the-badge&logo=freebsd&logoColor=black)  
+- Planification  
+- Esprit d’entrepreneur  
+- Autodidacte  
+- Esprit d’équipe  
 
 ---
 
 ## 📬 Me contacter  
-- ✉️ **Email** : landros001t@gmail.com  
+
+- 🌐 **Portfolio** : [https://landrosse.vercel.app/](https://landrosse.vercel.app/)  
+- ✉️ **Email** : [landros001t@gmail.com](mailto:landros001t@gmail.com)  
 - 🔗 **LinkedIn** : [linkedin.com/in/landrosse-radimson](https://www.linkedin.com/in/landrosse-radimson)  
 - 📘 **Facebook** : [facebook.com/laandros.rson](https://www.facebook.com/laandros.rson)  
-
----
-
-⚡ *“Je code même sans connexion internet… parce qu’un bon dev ne dépend jamais du Wi-Fi !”* 💻🚫📶  
+ 
